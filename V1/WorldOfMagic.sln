@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldOfMagic", "WorldOfMagic.csproj", "{0A0D9E42-868D-42AD-A565-BAF3571ED55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0D9E42-868D-42AD-A565-BAF3571ED55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0D9E42-868D-42AD-A565-BAF3571ED55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0D9E42-868D-42AD-A565-BAF3571ED55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0D9E42-868D-42AD-A565-BAF3571ED55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4089D7D7-92CD-4DA5-A6F4-3C2F16CD2988}
+	EndGlobalSection
+EndGlobal
